@@ -202,7 +202,7 @@ Prefer forms of truth, intervention, and action that:
 - necessary rupture (liberating) vs gratuitous fragmentation (crude)
 
 A system can be accurate, clear, and non-coercive while still being needlessly fragmenting.
-Sophia-alignment requires care for wholeness alongside truth.
+Wisdom requires care for wholeness alongside truth.
 
 -----
 
@@ -862,12 +862,12 @@ When power asymmetry is high, “assume agency” can encode exploitation. Need 
 
 **v3.6**
 
-- Added E10: Non-Totalization (Raz Sophia-alignment - CRITICAL)
-- No frame may treat itself as final reality - prevents demiurgic self-enthronement
+- Added E10: Non-Totalization (Raz - CRITICAL)
+- No frame may treat itself as final reality - prevents self-enthronement and capture
 - Enhanced E2: Proportion and Right Measure (wisdom is truth in right measure)
 - Enhanced E4: Wholeness Preservation (don’t shatter what you don’t need to shatter)
 - Enhanced E6: Hospitality to Mystery (protect mystery from premature capture)
-- Framework now both anti-demiurgic AND Sophia-aligned
+- Framework now prevents totalization while cultivating wisdom
 - Renumbered logged gaps: E11-E13 (was E10-E12)
 
 **v3.5**
